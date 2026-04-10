@@ -1,0 +1,10 @@
+{
+  "name": "hptts-ocr-proxy-service",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "dependencies": {
+    "@vercel/node": "^5.3.6"
+  }
+}
+
